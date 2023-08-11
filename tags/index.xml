@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on My New Hugo Site</title>
+        <title>Tags on mingo&#39;s blog</title>
         <link>https://mingo-bit.github.io/tags/</link>
-        <description>Recent content in Tags on My New Hugo Site</description>
+        <description>Recent content in Tags on mingo&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://mingo-bit.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language>
+        <lastBuildDate>Fri, 11 Aug 2023 15:59:45 +0800</lastBuildDate><atom:link href="https://mingo-bit.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>first blog</title>
+        <link>https://mingo-bit.github.io/tags/first-blog/</link>
+        <pubDate>Fri, 11 Aug 2023 15:59:45 +0800</pubDate>
+        
+        <guid>https://mingo-bit.github.io/tags/first-blog/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>hello world</title>
+        <link>https://mingo-bit.github.io/tags/hello-world/</link>
+        <pubDate>Fri, 11 Aug 2023 15:59:45 +0800</pubDate>
+        
+        <guid>https://mingo-bit.github.io/tags/hello-world/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>record</title>
+        <link>https://mingo-bit.github.io/tags/record/</link>
+        <pubDate>Fri, 11 Aug 2023 15:59:45 +0800</pubDate>
+        
+        <guid>https://mingo-bit.github.io/tags/record/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

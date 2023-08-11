@@ -1,0 +1,19 @@
+[comment]: # To use this feature, add `links` section to frontmatter.
+
+[comment]: # This page's frontmatter:
+
+[comment]: # ```yaml
+
+[comment]: # links:
+[comment]: #   - title: GitHub
+[comment]: #     description: GitHub is the world's largest software development platform.
+[comment]: #     website: https://github.com
+[comment]: #     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+[comment]: #   - title: TypeScript
+[comment]: #     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+[comment]: #     website: https://www.typescriptlang.org
+[comment]: #     image: ts-logo-128.jpg
+[comment]: # ```
+
+[comment]: # `image` field accepts both local and external images.
+[comment]: # */

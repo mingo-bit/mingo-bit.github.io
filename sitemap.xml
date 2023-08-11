@@ -2,17 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mingo-bit.github.io/post/my-first-blog/blog/</loc>
+    <loc>https://mingo-bit.github.io/</loc>
     <lastmod>2023-08-11T15:59:45+08:00</lastmod>
   </url><url>
-    <loc>https://mingo-bit.github.io/</loc>
+    <loc>https://mingo-bit.github.io/categories/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/tags/first-blog/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/tags/hello-world/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/post/hello-world/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/categories/life/</loc>
     <lastmod>2023-08-11T15:59:45+08:00</lastmod>
   </url><url>
     <loc>https://mingo-bit.github.io/post/</loc>
     <lastmod>2023-08-11T15:59:45+08:00</lastmod>
   </url><url>
-    <loc>https://mingo-bit.github.io/categories/</loc>
+    <loc>https://mingo-bit.github.io/tags/record/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
   </url><url>
     <loc>https://mingo-bit.github.io/tags/</loc>
+    <lastmod>2023-08-11T15:59:45+08:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mingo-bit.github.io/links/</loc>
+  </url><url>
+    <loc>https://mingo-bit.github.io/search/</loc>
+  </url><url>
+    <loc>https://mingo-bit.github.io/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>
