@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on mingo&#39;s blog</title>
-        <link>https://mingo-bit.github.io/post/</link>
-        <description>Recent content in Posts on mingo&#39;s blog</description>
+        <title>blogger on mingo&#39;s blog</title>
+        <link>https://mingo-bit.github.io/tags/blogger/</link>
+        <description>Recent content in blogger on mingo&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 11 Aug 2023 15:59:45 +0800</lastBuildDate><atom:link href="https://mingo-bit.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Aug 2023 15:59:45 +0800</lastBuildDate><atom:link href="https://mingo-bit.github.io/tags/blogger/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
         <link>https://mingo-bit.github.io/post/hello-world/</link>
         <pubDate>Fri, 11 Aug 2023 15:59:45 +0800</pubDate>
